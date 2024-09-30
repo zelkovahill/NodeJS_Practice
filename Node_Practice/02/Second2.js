@@ -3,4 +3,4 @@
 
 // let b = 0
 // b = 1
-// const c // Uncaught SyntaxError: Missing initializer in const declaration
+// const c; // Uncaught SyntaxError: Missing initializer in const declaration
